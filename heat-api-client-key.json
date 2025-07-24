@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "heat-stress-archive",
+  "private_key_id": "1389c40a8256af3bb91210fdd30eacb94f00aa5c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDBtwwsXoOmpSSm\n/r1fGeVSl/DJTiflQD7B4UJ4cOIWUlHiQO8o4wcYal9IIWoAUqNVquv+rVdijjWG\nsQ4XZLinbLtXoLQO35yhtt4dsukp8lBRFu2GRIYxOqs4QJAGffOyD6oaSr6J/CPk\nFnWoFGuijA0fk0tTbx2QJvI5HPBy0wpR5tHCYpCR0QBUHJ8LUEzkW+ij78GUAylj\nnXCwZCZuXNiKYbcNHLMjVzXe8cW/RRa+QI8WwzQzGzwTJ9VTDi7TEPearP4xcgHT\nYdi51rNHDKYdBC+saDnFoV9kn5iEWVDXn93yEwy63qAbLFoKAeuwfpm2SMx2g27S\nUvydhHxRAgMBAAECggEAFRxDoVozcqewlNpR/Nkvmo6gWO/BfURBEpPf0IxMty4F\nami1J3mGPmzpMU0i5iIbVqynxztQuJbS0njdFkONtAEvcV88ABryUNVC422p5z5W\n7l9XRziUfyzrl9fBWlPDiPYYDYFzvknSB3tDGywOhspIa9Z7cP489IaqAvtaYMja\nTO9117iSyv0DM+Km2wXF7PHs7ahit5zpZUDIQgUiwK6QFF4vZC++uK8L4zVv+1h4\nVFwG6oWe2Vtr9/U6AtfcGLDOxY78JcosRV8mJQrpfOd3YpiTu/Ps9oaoC5sFJ/3a\nQBtZxRBcU+lKxuAblr4kte8wiWtelp2iJ3J5npxHWQKBgQDrPnPzc0BwkmGPHKEJ\nOQPERMmNlnyM9WGRy5Xy6WP7hUsudvDT22F6hljtl+o0SZluZslk+E9nU1n9XDPT\ncaZycqpLeGAde88x1znZpHmYsoNOUTNx23B08zMXK+wBwcKu4Gu/W1qx4EiRhA3s\nsIYsp4PWuLrJ+rpRKGyISBGOPwKBgQDSzpCFA7O0xHFMn5RvQ8JtbXd6G8/1CCuO\ne8cPkC48VljS57ORBpsSdaUCcZCqc26XLaiDIvMR8mJaevqIOPEOuh9u5hcxi+bX\nvmGmwZfw74v8LQbIaD40tjL5pDI8QLlkmgXQJYTnf0S8yaCrL7LSmnB1HWNIc7+g\nGSNsVmJxbwKBgHS+jbSn4bb8LkZjotd84A2rRYtqv20E6eL88fGXOfM8906b4HCD\nUyEHQ2LGHYjNbcOIZzIguOdCSkqeU2n/4OazWSgTGUAIjY7ijOch5OaO0PMxASLk\nEC858oTxWzKUAhXfchmJML1N3TW6H17zS+MlTxxkmO5b69MTCKmpemzpAoGANYzT\nmXZ/SAQ+48AF7N3BnhqYpyQ5h30z01YOEx4FIL6ugaTqMIUFD4NjD2PZ4/K+vRiU\nHfva00xHP8TNr50HXz5YjctVSPjJAzURiVLUThgL71tgxbf1VV6TRGc5e6TVc4DM\nyTs+r6/cvjhZ4CKVwnoI5zc36Ue9/eVk4jhveXECgYB7ehqDe0sHzNrAKlsgBrOG\nXpisY4I1zmyO9SyH8PsPGkG6fRURdCG63sW1XBNE00zzquSQosQPffu4jMxrw/va\nSUYfaC3xZN8o569cRxAKt1E+x+Z12aubjkQg3AllxtDiyBoTdyvfBtpovAuA/PcC\n9+qPkbpOOMnXu8SFh5BLog==\n-----END PRIVATE KEY-----\n",
+  "client_email": "heat-api-client@heat-stress-archive.iam.gserviceaccount.com",
+  "client_id": "104582251569208472473",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/heat-api-client%40heat-stress-archive.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
