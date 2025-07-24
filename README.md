@@ -10,7 +10,8 @@ Current coverage is limited to data from the year 1990 and includes only the sum
 The file `heat-api-client-key.json` is a restricted Google Cloud service account key that grants invoke-only access to a single Cloud Run API endpoint. It cannot access any other Google Cloud resources or services.
 
 ---
-
+For a full example Python script using this client key, download and open `heat_api_example.ipynb`.
+---
 ## Security Notice
 
 GitHub secret scanning may flag this repository due to the inclusion of a service account key. This is an intentional inclusion to support transparency and reproducibility.
@@ -23,3 +24,4 @@ This key:
 For questions or to request a personalized access key, contact:
 
 rouzbeh@cornell.edu
+
